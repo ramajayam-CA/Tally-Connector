@@ -7,7 +7,6 @@ Tdl Documentation - Community Version 7.1 (For ICAI Members)
 
 TDL Stands for
 
-
 Tally Definition Language (TDL) is the development language of Tally Products. TDL is developed to provide the user with the flexibility and power to extend the default capabilities of Tally, and integrate them with the external applications. TDL provides a development platform for the user. The entire user interface of Tally.ERP 9 is built using TDL. TDL as a language, provides capabilities for Rapid Development, Rendering, Data Management, and Integration.
 
 TDL For Chartered Accountant
@@ -35,3 +34,17 @@ TDL For Chartered Accountant
 10. Analyse the Utilusation of Funds in a business enviornment.
 
 11. There are many further Benifits being explored by the Author
+
+
+# Fields Present in the Ledger Table
+
+![image](https://github.com/ramajayam-CA/Tally-Connector/assets/12751693/993555b3-d60d-430e-8dee-ed1ab10a7263)
+
+
+# Fields Present in the Transaction Table.
+
+![image](https://github.com/ramajayam-CA/Tally-Connector/assets/12751693/536a3c9b-f271-4907-820c-50cee2853415)
+
+
+
+
