@@ -1,4 +1,4 @@
-# Tally-Excel- PowerBI- Power Query ODBCConnector
+# Tally-Excel- PowerBI- Power Query ODBC Connector
 
 This Tool will help to import Tally Data (Master Data and Transactional Data) to excel /Power BI/ Power Query.
 
@@ -12,7 +12,7 @@ Tally Definition Language (TDL) is the development language of Tally Products. T
 
 TDL For Chartered Accountant
 
-#TDL Can Help Chartered Accountants in the following Ways
+**#TDL Can Help Chartered Accountants in the following Ways**
 
 1. Ability to generate Custom reports from Tally 
 
