@@ -81,5 +81,8 @@ Tally Definition Language (TDL) is the development language of Tally Products. T
 
 
 
+# How to Connect to PowerBI
 
+
+![image](https://github.com/ramajayam-CA/Tally-Connector/assets/12751693/a919eddb-8cc4-4fd7-9811-579bfc8ffa00)
 
