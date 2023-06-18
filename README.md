@@ -3,7 +3,7 @@
 This Tool will help to import Tally Data (Master Data and Transactional Data) to excel /Power BI/ Power Query.
 
 
-Tdl Documentation - Community Version 7.1 (For SIRC Members)
+Tdl Documentation - Community Version 7.1 (For ICAI Members)
 
 TDL Stands for
 
@@ -12,7 +12,7 @@ Tally Definition Language (TDL) is the development language of Tally Products. T
 
 TDL For Chartered Accountant
 
-TDL Can Help Chartered Accountants in the following Ways
+#TDL Can Help Chartered Accountants in the following Ways
 
 1. Ability to generate Custom reports from Tally 
 
@@ -30,6 +30,8 @@ TDL Can Help Chartered Accountants in the following Ways
 
 8. Get All Transaction and Ledger Data in Excel (Even a Very Large Data) in few clicks
 
-9.Get Critical Data Analysis for Tax audit Report
+9. Get Critical Data Analysis for Tax audit Report
 
 10. Analyse the Utilusation of Funds in a business enviornment.
+
+11. There are many further Benifits being explored by the Author
