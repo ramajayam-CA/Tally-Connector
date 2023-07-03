@@ -34,8 +34,34 @@ Port : 9000 or any other port of your choice
 ![image](https://github.com/ramajayam-CA/Tally-Connector/assets/12751693/512921e5-1acd-467b-867f-7e1818cf2dfe)
 
 
+# How to Connect to  Excel through Microsoft Query
 
 
+**Step 4** 
+  **Running Tally in Administrator Mode**
+
+  - After connecting the TDL file, Make sure You have Completed Step 1 to 3 as above  Enabling ODBC **RUN TALLY IN ADMINISTRATOR MODE IN WINDOWS**
+  - Then Open Excel and Navigate to Data >> Get Data >> Other Sources >> Microsoft Query >> Then Click on **TALLYODBC_9000** press **OK** in the Choose Data Source
+    If you have any error in this step then please go through Steps 1 to 3 properly
+
+![image](https://github.com/ramajayam-CA/Tally-Connector/assets/12751693/c44ffadb-1380-4ab1-af32-041671d0fb75)
+
+
+![image](https://github.com/ramajayam-CA/Tally-Connector/assets/12751693/1a3de0f6-4156-4cc1-8722-ec969b1807b1)
+
+    
+**Step 5** 
+
+**Selecting the Table in the tally database**
+
+**The following tables** one by one 
+
+**1. A_Sirc_Leder_Detailed_7_1 - Master Data**
+**2. A_Sirc_Vourcher7_1        - Transaction Data**
+
+
+After Selecting press the > button to load all the fields or the selected field 
+Then Click **Next** 3 times And finally Click Finish so that the data loaded in Excel 
 
 
 # Tdl Documentation - Community Version 7.1 (For ICAI Members)
@@ -76,8 +102,6 @@ Tally Definition Language (TDL) is the development language of Tally Products. T
 # Fields Present in the Transaction Table.
 
 ![image](https://github.com/ramajayam-CA/Tally-Connector/assets/12751693/536a3c9b-f271-4907-820c-50cee2853415)
-
-
 
 
 
