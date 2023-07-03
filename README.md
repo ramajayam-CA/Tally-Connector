@@ -59,9 +59,19 @@ Port : 9000 or any other port of your choice
 **1. A_Sirc_Leder_Detailed_7_1 - Master Data**
 **2. A_Sirc_Vourcher7_1        - Transaction Data**
 
-
 After Selecting press the > button to load all the fields or the selected field 
 Then Click **Next** 3 times And finally Click Finish so that the data loaded in Excel 
+
+![image](https://github.com/ramajayam-CA/Tally-Connector/assets/12751693/fe6c55f8-05b0-4a6a-b069-93ff47ea2315)
+
+![image](https://github.com/ramajayam-CA/Tally-Connector/assets/12751693/6756dfcb-e186-41dc-a17c-8f06327a16af)
+
+
+
+**For Doubts in connecting to excel refer to the tally documentation**
+
+
+https://help.tallysolutions.com/tally-prime/data-exchange-tally-prime/extracting-master-data-to-microsoft-excel-using-odbc-tally/
 
 
 # Tdl Documentation - Community Version 7.1 (For ICAI Members)
@@ -110,3 +120,7 @@ Tally Definition Language (TDL) is the development language of Tally Products. T
 
 ![image](https://github.com/ramajayam-CA/Tally-Connector/assets/12751693/a919eddb-8cc4-4fd7-9811-579bfc8ffa00)
 
+For Doubts in connecting to excel refer to the tally documentation
+
+
+https://help.tallysolutions.com/tally-prime/data-exchange-tally-prime/extracting-master-data-to-microsoft-excel-using-odbc-tally/
