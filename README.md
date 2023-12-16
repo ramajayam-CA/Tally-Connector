@@ -139,5 +139,8 @@ FROM A_Sirc_Vourcher7_1
 SELECT $Name, $_PrimaryGroup, $Parent, $OpeningBalance, $ClosingBalance, $_PrevYearBalance, $IsRevenue, $PartyGSTIN, $MasterId, $alteridd, $RComp_Name, $Year_Selected_from, $Year_Selected_to, $Company_number, $Path
 FROM A_Sirc_Leder_Detailed_7_1
 
+# Get the List of ledgers with forensics data
+
+Select $Name, $Createdby, $CreatedDate, $Masterid, $Alterid, $Alteredon, $Alteredby, $Updateddatetime, $LastVoucherDate, $Parent, $_PrimaryGroup, $$AscrAmt:$openingBalance, $$AscrAmt:$_ClosingBalance from ledger order by $Alterid desc
 
 
