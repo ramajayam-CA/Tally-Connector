@@ -124,3 +124,20 @@ For Doubts in connecting to excel refer to the tally documentation
 
 
 https://help.tallysolutions.com/tally-prime/data-exchange-tally-prime/extracting-master-data-to-microsoft-excel-using-odbc-tally/
+
+
+# Important Queries from the above data source - Transactions
+
+
+SELECT $Key, $MasterId, $AlterID, $VoucherNumber, $Date, $VoucherTypeName, $_Narration, $Reference, $ReferenceDate, $IsDeemedPositive, $NatureOfVoucher, $HasCashFlow, $EnteredBy, $AlteredBy, $AlteredOn, $SUpdatedDate, $SUpdatedTime, $LedgerName, $Amount, $DrAmount, $CrAmount, $Ledger_Parent, $Ledger_PrimaryGroup, $Party_LedgerName, $PARTY_GST_number, $Ledger_Master_GST_Number, $LedgerMasterGSTINGSTINtype, $HasBankEntry, $RComp_Name, $Year_Selected_from, $Year_Selected_to, $Company_number, $Led_Master_id, $Led_Alter_Id, $Led_IS_Revenue, $Path_of_the_CurrentCompany 
+FROM A_Sirc_Vourcher7_1
+
+
+# Important Queries from the above data source - Master data - Ledger
+
+
+SELECT $Name, $_PrimaryGroup, $Parent, $OpeningBalance, $ClosingBalance, $_PrevYearBalance, $IsRevenue, $PartyGSTIN, $MasterId, $alteridd, $RComp_Name, $Year_Selected_from, $Year_Selected_to, $Company_number, $Path
+FROM A_Sirc_Leder_Detailed_7_1
+
+
+
