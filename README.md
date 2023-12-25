@@ -1,3 +1,8 @@
+
+***Click to download the Connector from Here***
+
+https://workdrive.zohoexternal.com/external/8fb8315cec93c88ac25c12fee952e19aab501f47fcc1453d710a070abe21bfd8
+
 # Tally-Excel- PowerBI- Power Query ODBC Connector
 
 This Tool will help to import Tally Data (Master Data and Transactional Data) to excel /Power BI/ Power Query.
